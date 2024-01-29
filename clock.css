@@ -1,0 +1,52 @@
+body{
+    background-image:url(https://img2.wallspic.com/originals/7/5/3/3/6/163357-moonlight-atmosphere-art-astronomical_object-bird-3840x2160.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: fixed;
+}
+#style{
+    color: rgb(248, 245, 245);
+    height: 320px;
+    text-align: center;
+    border: 6px white groove;
+    width: 600px;
+    margin-left: 1100px;
+    border-radius: 15px;
+    box-shadow: 0 0 30px lightgray;
+    margin-top: -500px;
+    
+}
+#date{
+    color: rgb(247, 247, 247);
+    font-size: 40px;
+}
+.pk{
+    font-size: 70px;
+}
+#style2{
+    border: 6px rgb(248, 248, 248) solid;
+    width: 400px;
+    align-content: center;
+    height: 150px;
+    margin-top: -40px;
+    margin-left: 100px;
+    background-color: rgba(211, 211, 211, 0.301);
+    box-shadow: 0 0 20px rgb(75, 72, 72);
+    position: fixed;
+}
+#time{
+    font-size: 60px;
+}
+.logo{
+    color: rgba(255, 255, 255, 0.575);
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 85px;
+    margin-left: 200px;
+    border: 2px white transparent;
+    width: 700px;
+    margin-top: 550px;
+}
+.logo:hover{
+    text-shadow: 0 0 20px white;
+
+}
